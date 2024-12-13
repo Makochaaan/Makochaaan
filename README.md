@@ -6,14 +6,14 @@
 
 - 🧑‍💻 I'm a Nagoya Univeisity student and application developer.
 - 🌱 I’m currently learning Flutter(Dart)!
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/makoto-depontes)
+- 📫 How to reach me: <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=1&i=linkedin" />[LinkedIn](www.linkedin.com/in/makoto-depontes)
 <br>
 
 
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,flask,go,unity,flutter,dart,c#,c" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,python,flask,go,unity,blender,flutter,dart,cs,c" />
 <br>
 
 
