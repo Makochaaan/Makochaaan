@@ -6,7 +6,7 @@
 
 - 🧑‍💻 I'm a Nagoya Univeisity student and application developer.
 - 🌱 I’m currently learning Flutter(Dart)!
-- 📫 How to reach me: <img alt="my skills" height="4px" src="https://skillicons.dev/icons?theme=dark&perline=1&i=linkedin" />[LinkedIn](www.linkedin.com/in/makoto-depontes)
+- 📫 How to reach me: <img alt="my skills" height="25px" src="https://skillicons.dev/icons?theme=dark&perline=1&i=linkedin" />[LinkedIn](www.linkedin.com/in/makoto-depontes)
 <br>
 
 
