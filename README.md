@@ -7,9 +7,9 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 🧑‍💻 I'm a Nagoya Univeisity student and application developer.
+- 🌱 I’m currently learning Flutter(Dart)!
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/makoto-depontes)
 <br>
 
 
